@@ -21,7 +21,7 @@ Atualmente nos organizamos em quatro times principais:
 * Material
 * Atividades
 
-Cada time tem um canal de voz e de texto correspondentes em nosso discord (link abaixo), caso seja necessário os times principais criam subtimes para realizar coisas mais específicas, tipos times diferentes para hackathons diferentes.
+Cada time tem um canal de voz e de texto correspondentes em nosso discord (link abaixo), caso seja necessário os times principais criam subtimes para realizar coisas mais específicas, como times diferentes para hackathons diferentes.
 
 Também temos um grupo no telegram (link abaixo), no qual toda a organização se comunica, usamos este grupo para realizar as famosas brainstorms e discutir assuntos gerais do grupo, como parcerias.
 
